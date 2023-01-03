@@ -11,6 +11,7 @@ body {
     font-weight: 500;
     color: #fafafa;
     background-color: #2F4858;
+    
 
 }
 
@@ -44,6 +45,7 @@ h1 {
     border-end-start-radius: 10% 10%;
     padding: 1.2rem;
     
+    
 }
 
 #menu a {
@@ -59,13 +61,26 @@ h1 {
     border-bottom: 3px solid #C80663;
 }
 
-/* hero image */
+/* hero image and cover message */
 
 #hero-image{
     clear: both;
-    height: 150px;
+    height: 400px;
     width: 100%;
     background: url('../images/dnd_icewind-pic.webp') no-repeat center center;
-    padding-top: 15em;
-    
+    padding-top: 10px;
+    border: 1px solid #fafafa;
+    border-radius: 5% 5%;
+}
+
+#cover-text{
+    height: 75px;
+    width: 25%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 140%;
+    background-color: rgba(200, 6, 99, 0.6);
+    border-radius: 5%;
+    text-align: center;
+    margin-right: 50px;
+    float: right;
 }
