@@ -57,3 +57,6 @@ h1 {
     color: #C80663;
 }
 
+.active {
+    border-bottom: 3px solid #C80663;
+}
