@@ -52,3 +52,8 @@ h1 {
     text-decoration: none;
     color: inherit;
 }
+
+#menu a:hover{
+    color: #C80663;
+}
+
