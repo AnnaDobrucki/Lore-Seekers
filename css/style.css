@@ -83,9 +83,14 @@ h1 {
     text-align: center;
     margin-right: 50px;
     float: right;
-    
+    position: relative;
+    animation: slide-left 3.5s;
 }
 
 #workshop-shortcut{
     color: gold;}  
 
+    @keyframes slide-left {
+        0%   {right: 350px;}
+        100% {right: 0px;}
+      }
