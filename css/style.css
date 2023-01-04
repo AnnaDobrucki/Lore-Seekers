@@ -44,7 +44,7 @@ h1 {
     list-style-type: none;
     margin: 30px 50px 0 0;
     border: 2px solid #fafafa;
-    border-end-start-radius: 10% 10%;
+    border-end-start-radius: 15% 15%;
     padding: 1.2rem;
     
     
@@ -99,3 +99,35 @@ h1 {
         0%   {right: 350px;}
         100% {right: 0px;}
       }
+
+/* workshop badges section*/
+
+#workshop-container {
+    height: 120px;
+}
+
+.workshop-badge {
+    height: 100px;
+    width: 100px;
+    border: 5px solid #C80663;
+    border-radius: 50%;
+    padding: 5%;
+    text-align: center;
+    font-size: 120%;
+    margin-top: 50px;
+}
+
+div h2 {
+    border-bottom: 3px solid gold;
+    position: relative;
+    bottom: 25px;
+}
+
+#right-container {
+    
+    float: right;
+}
+
+#center-container {
+
+}
