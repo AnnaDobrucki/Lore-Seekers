@@ -144,14 +144,29 @@ div h2 {
     font-size: 150%;
 }
 
-/*  Footer */
+/*  Footer and iframe */
 footer {
-    height: 180px;
+    height: 325px;
     border: 3px solid #fafafa;
-    border-radius: 5% 5%;
+    border-radius: 12% 12%;
     text-align: center;
+    background-color: rgba(200, 6, 99, 0.5);
     clear: both;
 }
-.social-media {
+
+.footer-text {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 125%;
+    padding: 5px 0;
+}
+.social-media > li {
+    display: inline;
+    margin: 0 12rem;
     
+}
+
+.social-media i {
+    font-size: 250%;
+    color: #fafafa;
+    padding-top: 1rem;
 }
