@@ -100,34 +100,48 @@ h1 {
         100% {right: 0px;}
       }
 
-/* workshop badges section*/
+/* workshop badges section */
 
 #workshop-container {
-    height: 120px;
+    width: 100%;
+    height: 200px;
 }
 
 .workshop-badge {
-    height: 100px;
-    width: 100px;
-    border: 5px solid #C80663;
+    height: 250px;
+    width: 250px;
+    border: 7px solid #C80663;
     border-radius: 50%;
-    padding: 5%;
     text-align: center;
-    font-size: 120%;
-    margin-top: 50px;
+    
 }
 
 div h2 {
     border-bottom: 3px solid gold;
+    top: 15%;
     position: relative;
-    bottom: 25px;
+    font-size: 200%
 }
 
-#right-container {
-    
+#badge-right {
+    position: relative;
     float: right;
+    bottom: 263px; /* NEED TO FIX THIS - MOVING ON FOR NOW */
 }
 
-#center-container {
-
+#badge-left {
+    float: left;
+    
 }
+
+#margin-auto{
+    margin: 0 auto
+}
+
+.badge-info {
+    top: 20%;
+    position: relative;
+    font-size: 150%;
+}
+
+/* Social Media links */
