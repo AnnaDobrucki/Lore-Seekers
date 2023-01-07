@@ -169,12 +169,16 @@ footer {
 /* Workshop Page */
 
 .workshop-container {
-    clear: both;
-    height: 250px;
+    height: 300px;
     width: 100%;
     font-size: 150%;
     padding-top: 5%;
     float: left;
+    clear: both;
+}
+
+article h2{
+    border-bottom: 2px solid gold;
 }
 
 article > p {
@@ -182,6 +186,7 @@ article > p {
     padding-top:10px;
     width: 50%;
 }
+
 
 .bullet-style {
     list-style-type: circle;
@@ -196,4 +201,5 @@ article > p {
     width: 50%;
     float: right;
     position: relative;
+    bottom: 200px; /* NEED TO HAVE A LOOK BACK AT FIXING THIS */
 }
