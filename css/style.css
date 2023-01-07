@@ -175,10 +175,9 @@ footer {
 
 .workshop-container {
     clear: both;
-    height: 200px;
+    height: 250px;
     width: 100%;
     font-size: 150%;
-    margin-left: 2%;
     padding-top: 5%;
     float: left;
 }
@@ -189,15 +188,17 @@ article > p {
     width: 50%;
 }
 
-#beginner-bullets {
+.bullet-style {
     list-style-type: circle;
     font-family: 'Josefin Sans', sans-serif;
     padding-top: 10px;
     width: 50%;
+    margin-left: 1rem;
 }
 
-.video-beginner {
+.video {
     aspect-ratio: 16 / 9;
     width: 50%;
     float: right;
+    position: relative;
 }
