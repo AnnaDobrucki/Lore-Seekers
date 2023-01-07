@@ -87,7 +87,7 @@ h1 {
     animation: slide-left 3s;
 }
 
-#workshop-shortcut{
+#workshop-cover-shortcut{
     color: gold;}  
 
 /* Keyframe - animation */
@@ -118,6 +118,11 @@ div h2 {
     top: 15%;
     position: relative;
     font-size: 200%
+}
+
+h2 a {
+    text-decoration: none;
+    color: #fafafa;
 }
 
 #badge-right {
