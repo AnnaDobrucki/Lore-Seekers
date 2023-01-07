@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
     border: none;
-
 }
 
 body {
@@ -46,8 +45,6 @@ h1 {
     border: 2px solid #fafafa;
     border-end-start-radius: 15% 15%;
     padding: 1.2rem;
-    
-    
 }
 
 #menu a {
@@ -131,7 +128,6 @@ div h2 {
 
 #badge-left {
     float: left;
-    
 }
 
 #margin-auto{
@@ -162,7 +158,6 @@ footer {
 .social-media > li {
     display: inline;
     margin: 0 12rem;
-    
 }
 
 .social-media i {
