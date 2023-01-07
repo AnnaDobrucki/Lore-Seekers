@@ -203,3 +203,18 @@ article > p {
     position: relative;
     bottom: 200px; /* NEED TO HAVE A LOOK BACK AT FIXING THIS */
 }
+
+
+/* Join In Page */
+
+form {
+    clear: both;
+    height: 500px;
+    padding-top: 2rem;
+}
+
+form h2 {
+    color: gold;
+    text-align: center;
+    font-size: 300%;
+}
