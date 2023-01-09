@@ -82,7 +82,7 @@ h1 {
     margin-right: 75px;
     float: right;
     position: relative;
-    bottom: 120px;
+    bottom: 110px;
     animation: slide-left 3s;
 }
 
@@ -136,38 +136,40 @@ h2 a {
 
 .workshop-container {
     height: 300px;
-    width: 100%;
     font-size: 160%;
     padding-top: 5%;
-    float: left;
     clear: both;
+    margin: 1.2rem;
+    display: flex;
+    flex-direction: row;
 }
 
 article h2{
+    font-size: 180%;
     border-bottom: 2px solid gold;
+    top: 0%;  
 }
 
 article > p {
     font-family: 'Josefin Sans', sans-serif;
-    padding-top:10px;
-    width: 50%;
 }
-
 
 .bullet-style {
     list-style-type: circle;
     font-family: 'Josefin Sans', sans-serif;
     padding-top: 10px;
-    width: 50vw;
+    width: 50%;
     margin-left: 1rem;
+}
+
+.workshop-info {
+    width: 60%
 }
 
 .video {
     aspect-ratio: 16 / 9;
-    width: 50vw;
-    float: right;
+    width: 40%
     position: relative;
-    bottom: 200px; /* NEED TO HAVE A LOOK BACK AT FIXING THIS */
 }
 
 
