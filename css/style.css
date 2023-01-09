@@ -212,6 +212,12 @@ form h2 {
     color: rgba(200, 6, 99, 0.6)
 }
 
+/* Thank you page */
+
+.thank-you {
+    clear:both;
+}
+
 /*  Footer  */
 footer {
     height: 350px;
