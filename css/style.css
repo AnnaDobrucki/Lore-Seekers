@@ -145,32 +145,6 @@ h2 a {
     font-size: 150%;
 }
 
-/*  Footer  */
-footer {
-    height: 325px;
-    border: 3px solid #fafafa;
-    border-radius: 12% 12%;
-    text-align: center;
-    background-color: rgba(200, 6, 99, 0.5);
-    clear: both;
-}
-
-.footer-text {
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 125%;
-    padding: 5px 0;
-}
-.social-media > li {
-    display: inline;
-    margin: 0 12rem;
-}
-
-.social-media i {
-    font-size: 250%;
-    color: #fafafa;
-    padding-top: 1rem;
-}
-
 /* Workshop Page */
 
 .workshop-container {
@@ -224,3 +198,30 @@ form h2 {
     font-size: 300%;
 }
 
+
+
+/*  Footer  */
+footer {
+    height: 325px;
+    border: 3px solid #fafafa;
+    border-radius: 12% 12%;
+    text-align: center;
+    background-color: rgba(200, 6, 99, 0.5);
+    clear: both;
+}
+
+.footer-text {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 125%;
+    padding: 5px 0;
+}
+.social-media > li {
+    display: inline;
+    margin: 0 12rem;
+}
+
+.social-media i {
+    font-size: 250%;
+    color: #fafafa;
+    padding-top: 1rem;
+}
