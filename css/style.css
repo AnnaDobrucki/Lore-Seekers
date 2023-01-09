@@ -206,6 +206,15 @@ form h2 {
     padding-bottom: 5px;
 }
 
+.text-input{
+    background: transparent;
+    border-bottom: 1px solid #fafafa;
+    font-size: 120%;
+}
+
+::placeholder { 
+    color: rgba(200, 6, 99, 0.6)
+  }
 
 /*  Footer  */
 footer {
