@@ -73,7 +73,6 @@ h1 {
 }
 
 #cover-text{
-    height: 85px;
     width: 30%;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 165%;
@@ -199,8 +198,8 @@ form h2 {
 }
 
 .image {
-    height: 225px;
-    width: 225px;
+    height: 200px;
+    width: 200px;
     border-radius: 50%;
     margin: 0 auto;
     padding-bottom: 5px;
