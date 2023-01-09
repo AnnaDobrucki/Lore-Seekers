@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500&family=Josefin+Sans:wght@300&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -10,7 +11,7 @@ body {
     font-weight: 500;
     color: #fafafa;
     background-color: #2F4858;
-    
+
 
 }
 
@@ -52,7 +53,7 @@ h1 {
     color: inherit;
 }
 
-#menu a:hover{
+#menu a:hover {
     color: #C80663;
 }
 
@@ -62,7 +63,7 @@ h1 {
 
 /* hero image and cover message */
 
-#hero-image{
+#hero-image {
     clear: both;
     height: 350px;
     width: 100%;
@@ -72,7 +73,7 @@ h1 {
     border-radius: 5% 5%;
 }
 
-#cover-text{
+#cover-text {
     width: 30%;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 165%;
@@ -86,15 +87,21 @@ h1 {
     animation: slide-left 3s;
 }
 
-#workshop-cover-shortcut{
-    color: gold;}  
+#workshop-cover-shortcut {
+    color: gold;
+}
 
 /* Keyframe - animation */
 
 @keyframes slide-left {
-        0%   {right: 350px;}
-        100% {right: 0px;}
-      }
+    0% {
+        right: 350px;
+    }
+
+    100% {
+        right: 0px;
+    }
+}
 
 /* workshop badges section */
 
@@ -111,7 +118,7 @@ h1 {
     border: 7px solid #C80663;
     border-radius: 50%;
     text-align: center;
-    
+
 }
 
 div h2 {
@@ -144,13 +151,13 @@ h2 a {
     flex-direction: row;
 }
 
-article h2{
+article h2 {
     font-size: 180%;
     border-bottom: 2px solid gold;
-    top: 0%;  
+    top: 0%;
 }
 
-article > p {
+article>p {
     font-family: 'Josefin Sans', sans-serif;
 }
 
@@ -168,8 +175,7 @@ article > p {
 
 .video {
     aspect-ratio: 16 / 9;
-    width: 40%
-    position: relative;
+    width: 40% position: relative;
 }
 
 
@@ -195,19 +201,19 @@ form h2 {
     padding-bottom: 5px;
 }
 
-.text-input{
+.text-input {
     background: transparent;
     border-bottom: 1px solid #fafafa;
     font-size: 120%;
 }
 
-::placeholder { 
+::placeholder {
     color: rgba(200, 6, 99, 0.6)
-  }
+}
 
 /*  Footer  */
 footer {
-    height: 325px;
+    height: 350px;
     border: 3px solid #fafafa;
     border-radius: 12% 12%;
     text-align: center;
@@ -218,11 +224,17 @@ footer {
 .footer-text {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 125%;
-    padding: 5px 0;
+    padding: 10px;
 }
-.social-media > li {
-    display: inline;
-    margin: 0 12rem;
+
+.social-media {
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-media>li {
+    padding: 0 10%;
+    list-style-type: none;
 }
 
 .social-media i {
@@ -230,4 +242,3 @@ footer {
     color: #fafafa;
     padding-top: 1rem;
 }
-
