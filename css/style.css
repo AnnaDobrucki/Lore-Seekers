@@ -106,19 +106,20 @@ h1 {
 /* workshop badges section */
 
 #workshop-badge-container {
-    height: 250px;
+    height: 300px;
     width: 100%;
     display: flex;
+    position: relative;
+    bottom: 25px;
     justify-content: space-between;
 }
 
 .workshop-badge {
-    height: 250px;
-    width: 250px;
-    border: 7px solid #C80663;
+    height: 275px;
+    width: 275px;
+    border: 12px solid #C80663;
     border-radius: 50%;
     text-align: center;
-
 }
 
 div h2 {
@@ -218,6 +219,7 @@ footer {
     border-radius: 12% 12%;
     text-align: center;
     background-color: rgba(200, 6, 99, 0.5);
+    margin-top: 50px;
     clear: both;
 }
 
@@ -232,7 +234,7 @@ footer {
     justify-content: space-between;
 }
 
-.social-media>li {
+.social-media > li {
     padding: 0 10%;
     list-style-type: none;
 }
