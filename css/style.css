@@ -99,8 +99,10 @@ h1 {
 /* workshop badges section */
 
 #workshop-badge-container {
+    height: 250px;
     width: 100%;
-    height: 200px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .workshop-badge {
@@ -122,20 +124,6 @@ div h2 {
 h2 a {
     text-decoration: none;
     color: #fafafa;
-}
-
-#badge-right {
-    position: relative;
-    float: right;
-    bottom: 263px; /* NEED TO FIX THIS - MOVING ON FOR NOW */
-}
-
-#badge-left {
-    float: left;
-}
-
-#margin-auto{
-    margin: 0 auto
 }
 
 .badge-info {
