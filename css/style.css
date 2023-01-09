@@ -66,7 +66,6 @@ h1 {
 #hero-image {
     clear: both;
     height: 350px;
-    width: 100%;
     background: url('../images/dnd_icewind-pic.webp') no-repeat center center;
     padding-top: 10px;
     border: 1px solid #fafafa;
@@ -112,6 +111,7 @@ h1 {
     position: relative;
     bottom: 25px;
     justify-content: space-between;
+    padding-right: 2rem;
 }
 
 .workshop-badge {
@@ -184,8 +184,10 @@ article >  p {
 
 form {
     clear: both;
-    height: 300px;
+    height: 425px;
     padding-top: 2rem;
+    text-align: center;
+    font-size: 160%;
 }
 
 form h2 {
@@ -194,22 +196,38 @@ form h2 {
     font-size: 300%;
 }
 
-.image {
-    height: 250px;
-    width: 250px;
-    border-radius: 50%;
-    margin: 0 auto;
-    padding-top: 10px;
+form p {
+    border-bottom: 2px dashed gold;
 }
 
 .text-input {
     background: transparent;
     border-bottom: 1px solid #fafafa;
-    font-size: 120%;
+    font-size: 100%;
+    text-align: center;
 }
 
 ::placeholder {
     color: rgba(200, 6, 99, 0.6)
+}
+
+.workshop-choice{
+    margin-top: 2rem;
+}
+
+#form-button {
+    font-size: 100%;
+    color: #fafafa;
+    background-color: #C80663;
+    font-family: 'Josefin Sans', sans-serif;
+    border-radius: 20%;
+    margin-top: 1rem;
+    padding: 15px;
+    box-shadow: 3px 4px #fafafa;
+}
+
+#form-button :hover {
+    color: gold;
 }
 
 /* Thank you page */
@@ -222,6 +240,14 @@ form h2 {
     border-radius: 10%;
     padding-top: 2rem;
     font-family: 'Josefin Sans', sans-serif;
+}
+
+.image {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin: 0 auto;
+    padding-top: 10px;
 }
 
 /*  Footer  */
