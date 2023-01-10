@@ -11,7 +11,7 @@ body {
     font-weight: 500;
     color: #fafafa;
     background-color: #2F4858;
-    
+
 }
 
 /* heading and logo*/
@@ -217,6 +217,20 @@ form p {
     margin-top: 2rem;
 }
 
+.choice-text{
+    font-size: 110%;
+    letter-spacing: 3px;
+    padding: 1.5em 0.5em;
+}
+
+#beginner-label {
+    color: #C80663;
+}
+
+#advanced-label {
+    color: gold;
+}
+
 #form-button {
     font-size: 100%;
     color: #fafafa;
@@ -288,5 +302,6 @@ footer {
 
 #map {
     height: 115px;
-    width: 65%;
+    width: 60%;
 }
+
