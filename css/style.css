@@ -435,12 +435,41 @@ footer {
         padding: 0.8rem;
     }
 
+    #cover-text {
+        width: 45%;
+        font-size: 140%;
+    }
+
     #logo {
         font-size: 300%;
+    }
+
+    #form-height {
+        height: 600px;
     }
 }
 
 @media screen and (max-width: 550px) {
+
+    #menu {
+        font-size: 100%;
+    }
+
+    #menu li {
+        margin-right: 20px;
+        padding: 0.6rem;
+    }
+
+    #cover-text {
+        font-size: 120%;
+        margin-right: 25px;
+    }
+
+    #description-container {
+        font-size: 150%;
+        margin: 3rem 3rem;
+    }
+
     .workshop-container {
         display: flex;
         flex-direction: column;
@@ -450,4 +479,10 @@ footer {
     .video {
         width: 90%;
     }
+
+    .social-media i {
+        font-size: 200%;
+        padding-top: 0.5rem;
+    }
+    
 }
