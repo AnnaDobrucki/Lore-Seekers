@@ -179,12 +179,12 @@ article >  p {
     list-style-type: circle;
     font-family: 'Josefin Sans', sans-serif;
     padding-top: 10px;
-    width: 60%;
+    width: 70%;
     margin-left: 1rem;
 }
 
 .workshop-info {
-    width: 60%
+    width: 80%
 }
 
 .video {
@@ -195,7 +195,6 @@ article >  p {
 #form-heading {
     border: none;
 }
-
 
 /* Join In Page */
 
@@ -338,3 +337,70 @@ footer {
     width: 60%;
 }
 
+/* Media Quieres */
+
+@media screen and (max-width: 1200px) {
+
+    .workshop-container {
+        height: 350px;
+    }
+
+    #cover-text {
+        bottom: 130px;
+        width: 40%;
+    }
+}
+
+@media screen and (max-width: 1070px) {
+
+    #menu {
+        clear: both;
+}
+
+     .workshop-container {
+    height: 420px;
+    text-align: center;
+}
+
+      .bullet-style {
+    margin-left: 2rem;
+    width: 90%;
+}
+
+      .video {
+    top: 10px;
+    left: 5px;
+}
+
+}
+
+@media screen and (max-width: 1000px) {
+
+    .workshop-container {
+        display: flex;
+        flex-direction: column;
+        height: 550px;
+    }
+
+    .workshop-info {
+        width: 100%;
+    }
+
+    #form-height {
+        height: 500px;
+    }
+
+}
+
+@media screen and (max-width: 900px) {
+
+    #workshop-badge-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 900px;
+        bottom: 75px;
+    }
+
+
+}
