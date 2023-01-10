@@ -37,30 +37,30 @@
             <h3> Sign Up for some amazing workshops to become the best dnd nerd there is!</h3>
             <p>All our workshops are held at the Elephant & Castle pub, right near the E&C station.</p>
 
-            <div>
-            <label for="fname">First Name:</label>
+            <div class="personal-info">
+            <label class="text-label" for="fname">First Name:</label>
             <input type="text" class="text-input" name="fanme" id="fname" placeholder="First Name" required >
             </div>
 
-            <div>
-                <label for="lname">Last Name:</label>
+            <div class="personal-info">
+                <label class="text-label" for="lname">Last Name:</label>
                 <input type="text" class="text-input" name="lname" id="lname" placeholder="Last Name" required>
             </div>
 
-            <div>
-                <label for="email">Email Address:</label>
+            <div class="personal-info">
+                <label class="text-label" for="email">Email Address:</label>
                 <input type="email" class="text-input" name="email" id="email" placeholder="Email Address" required> 
             </div>
 
             <div class="workshop-choice">
                 <h3>Pick what workshop you'd like to attend</h3>
-                <label  id="beginner-label" class="choice-text" for="beginner">Beginner</label>
+                <label  id="beginner-label" class="radio-text" for="beginner">Beginner</label>
                 <input type="radio" id="beginner" value="beginner" name="workshop_choice" required>
                 
-                <label class="choice-text" for="intermediate">Intermediate</label>
+                <label class="radio-text" for="intermediate">Intermediate</label>
                 <input type="radio" name="workshop_choice" id="intermediate" value="intermediate">
 
-                <label id="advanced-label" class="choice-text" for="advanced">Advanced</label>
+                <label id="advanced-label" class="radio-text" for="advanced">Advanced</label>
                 <input type="radio" name="workshop_choice" id="advanced" value="advanced">
                 
             </div>

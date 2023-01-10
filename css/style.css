@@ -84,7 +84,7 @@ h1 {
     animation: slide-left 3s;
 }
 
-#workshop-cover-shortcut {
+.shortcut {
     color: gold;
 }
 
@@ -138,6 +138,21 @@ h2 a {
     font-size: 150%;
 }
 
+/* Company Info */
+
+#description-container {
+    text-align: center;
+    font-size: 170%;
+    font-family: 'Josefin Sans', sans-serif;
+    letter-spacing: 1.5;
+    margin: 3rem 7rem;
+}
+
+#dnd-logo {
+    font-size: 150%;
+    color: rgba(200, 6, 99, 0.75);
+}
+
 /* Workshop Page */
 
 .workshop-container {
@@ -186,7 +201,7 @@ article >  p {
 
 form {
     clear: both;
-    height: 425px;
+    height: 450px;
     padding-top: 2rem;
     text-align: center;
     font-size: 160%;
@@ -200,12 +215,21 @@ form h2 {
 
 form p {
     border-bottom: 2px dashed gold;
+    margin-top: 1rem;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-bottom: 5px;
 }
+
+form h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 1rem;
+}
+
 
 .text-input {
     background: transparent;
     border-bottom: 1px solid #fafafa;
-    font-size: 100%;
+    font-size: 90%;
     text-align: center;
 }
 
@@ -217,10 +241,19 @@ form p {
     margin-top: 2rem;
 }
 
-.choice-text{
+.radio-text{
     font-size: 110%;
     letter-spacing: 3px;
-    padding: 1.5em 0.5em;
+    padding: 1.5em 0.6em;
+}
+
+.text-label {
+    border: none;
+    letter-spacing: 1px;
+}
+
+.personal-info {
+    padding-top: 0.5rem;
 }
 
 #beginner-label {
