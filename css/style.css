@@ -11,8 +11,7 @@ body {
     font-weight: 500;
     color: #fafafa;
     background-color: #2F4858;
-
-
+    
 }
 
 /* heading and logo*/
@@ -29,7 +28,6 @@ h1 {
     font-size: 350%;
     margin: 5px 0 0 20px;
     border-bottom: 3px solid #C80663;
-    position: absolute;
 }
 
 /* navigation and links*/
@@ -166,7 +164,7 @@ article >  p {
     list-style-type: circle;
     font-family: 'Josefin Sans', sans-serif;
     padding-top: 10px;
-    width: 50%;
+    width: 60%;
     margin-left: 1rem;
 }
 
@@ -176,7 +174,11 @@ article >  p {
 
 .video {
     aspect-ratio: 16 / 9;
-    width: 40% position: relative;
+    position: relative;
+}
+
+#form-heading {
+    border: none;
 }
 
 
@@ -253,6 +255,7 @@ form p {
 /*  Footer  */
 footer {
     height: 350px;
+    width: auto;
     border: 3px solid #fafafa;
     border-radius: 12% 12%;
     text-align: center;
@@ -281,4 +284,9 @@ footer {
     font-size: 250%;
     color: #fafafa;
     padding-top: 1rem;
+}
+
+#map {
+    height: 115px;
+    width: 65%;
 }
