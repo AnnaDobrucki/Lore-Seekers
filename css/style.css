@@ -40,7 +40,7 @@ h1 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin: 30px 50px 0 0;
+    margin: 30px 40px 10px 0;
     border: 2px solid #fafafa;
     border-end-start-radius: 15% 15%;
     padding: 1.2rem;
@@ -67,7 +67,7 @@ h1 {
     background: url('../images/dnd_icewind-pic.webp') no-repeat center center;
     padding-top: 10px;
     border: 1px solid #fafafa;
-    border-radius: 5% 5%;
+    border-radius: 3em;
 }
 
 #cover-text {
@@ -521,6 +521,18 @@ footer {
 }
 
 @media screen and (max-width: 450px) {
+    #cover-text {
+        font-size: 110%;
+        bottom: 160px;
+    }
 
-    
+    #menu li {
+        padding: 0.5rem;
+        margin: 25px 3px;
+    }
+    .workshop-container {
+        display: flex;
+        flex-direction: column;
+        height: 900px;
+    }
 }
