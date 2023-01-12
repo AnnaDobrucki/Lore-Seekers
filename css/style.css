@@ -337,7 +337,7 @@ footer {
     width: 60%;
 }
 
-/* Media Quieres */
+/* Media Quieres for large and medium sized screens */
 
 @media screen and (max-width: 1200px) {
 
@@ -413,6 +413,8 @@ footer {
     
 }
 
+/* Media Queries for tablets and smaller screens */
+
 @media screen and (max-width: 850px) {
     #cover-text {
         bottom: 140px;
@@ -484,5 +486,41 @@ footer {
         font-size: 200%;
         padding-top: 0.5rem;
     }
+    
+}
+
+@media screen and (max-width: 470px) {
+    footer {
+        height: 350px;
+    }
+
+    #form-height {
+        height: 725px;
+    }
+
+    #logo {
+        font-size: 250%;
+
+    }
+
+    .radio-text{
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+    }
+
+    form {
+        font-size: 140%;
+    }
+
+    .thank-you {
+        font-size: 140%;
+        height: 115px;
+        margin: 0 1rem;
+    }
+}
+
+@media screen and (max-width: 450px) {
+
     
 }
