@@ -56,7 +56,16 @@ I enacted multiple features to help streamline user experience on this site. Thr
     ![index page wireframe](documentation/wireframe/index-page-wireframe.png "Index page original idea wireframe")
 
    4. Images and Logos
-    -   All images used in the project were downloaded from places with a free license and don't need purchasing. I used various websites such as [Font Awesome](https://fontawesome.com/icons/dragon?s=solid&f=classic) to help me build my Logo, in conjuction with [Favicon](https://favicon.io/favicon-generator/) which allowed me to build a logo.
+    -   All images used in the project were downloaded from places with a free license and don't need purchasing. I used various websites such as [Font Awesome](https://fontawesome.com/icons/dragon?s=solid&f=classic) to help me build my Logo, in conjuction with [Favicon](https://favicon.io/favicon-generator/) which allowed me to build a logo. Along with [Shutterstock](https://www.shutterstock.com/discover/stock-assets-uk-0220?c3apidt=p46848462172&gclid=CjwKCAiAwomeBhBWEiwAM43YIM5L464Bmpb0amVcJtesyh3q18-5F7s_RQoGkoEsgP13dKoUwrTQVRoC3KIQAvD_BwE&gclsrc=aw.ds&kw=free%20images%20download), [Unsplash](https://unsplash.com/), and [Pexels](https://www.pexels.com/) for my inspiration and images.
       * Note Creditation *Favicon* - there creation was also the code I used to embedd the logo into my site/ tab bar. 
+
+# Testing
+
+  ### Please find all notes relating to testing [here](../Lore-Seekers-Project/documentation/testing.md).
+
+
+
+
+
 
 
