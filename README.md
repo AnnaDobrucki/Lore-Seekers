@@ -15,7 +15,7 @@ Knowing the world of Dungeons & Dragons as I do, it is easy to feel like there a
 - Entices newcomers without fear, shows knowledge for those coming with more experience. 
 - Guides the user to where these workshops would take place.  
 
-### Features
+## Features
 
 I enacted multiple features to help streamline user experience on this site. Through-out the website there are call’s to action to guide the user to find out more about the workshops, and eventually sign up for one of them. 
 
@@ -28,12 +28,17 @@ I enacted multiple features to help streamline user experience on this site. Thr
   * The landing page has a bold hero image and a one use animation for cover text, this was used as an eyecatching feature so the first element users read is about *workshops* and *DnD*. In addition for better user expereience I created workshop badges that you begin to see at the bottom of the screen, so the user can infer that there is more content below.
 
 + Workshops Page
-  * After the landing page most links are heading towards the workshops page. Here there are a multitude of YouTube Videos, and "short and sweet" breakdowns of each workshop. Linking those pages are embedded links to the Join.In page. 
+  * After the landing page most links are heading towards the workshops page. Here there are a multitude of YouTube Videos, and "short and sweet" breakdowns of each workshop, and there affiliated time slots. I added the videos with the forethought, that newcomers would like to have some basic knowledge about DnD before entering a new space, with new people. Linking those pages are embedded links to the Join.In page. 
     * [Beginner](https://youtu.be/BgvHNlgmKro)
     * [Intermediate](https://www.youtube.com/embed/ng8sPnaMLUY)
     * [Advanced](https://www.youtube.com/embed/ANdG2DGm0CQ)
 
++ Join In Page 
+  * Here users are greeted with a simple yet effective sign up sheet, making calls to action to fill in required fields, that, if not fully completed the page will not _Submit_ there choices. 
 
++ Thank You page 
+  * This was in fact reccomeneded by my mentor Gareth McGirr. My original idea had the PUSH action to a code institute form-dump page. However under the suggestion of my mentor, I created a page that greets the user with a Thank you, and D20 image (well known as a good omen in DnD). This allows the user to still remain on my site instead of being push somehwere else. 
+  
 + Footer
   * I also created a footer bar. Consisting of two blocks, one that allows the user to Contact Us for any further info. The other a Visit Us to all the relevant social media links for Lore Seekers. I also inserted a [Google Maps iframe straight to the workshops venue.](https://www.google.com/maps?ll=51.495359,-0.099585&z=15&t=m&hl=en&gl=GB&mapclient=embed&cid=3226506455862106501)
 

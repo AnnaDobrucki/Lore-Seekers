@@ -302,7 +302,7 @@ footer {
     height: 350px;
     width: auto;
     border: 3px solid #fafafa;
-    border-radius: 12% 12%;
+    border-radius: 4em;
     text-align: center;
     background-color: rgba(200, 6, 99, 0.5);
     margin-top: 50px;
