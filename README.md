@@ -38,13 +38,13 @@ I enacted multiple features to help streamline user experience on this site. Thr
 
 + Thank You page 
   * This was in fact reccomeneded by my mentor Gareth McGirr. My original idea had the PUSH action to a code institute form-dump page. However under the suggestion of my mentor, I created a page that greets the user with a Thank you, and D20 image (well known as a good omen in DnD). This allows the user to still remain on my site instead of being push somehwere else. 
-  
+
 + Footer
   * I also created a footer bar. Consisting of two blocks, one that allows the user to Contact Us for any further info. The other a Visit Us to all the relevant social media links for Lore Seekers. I also inserted a [Google Maps iframe straight to the workshops venue.](https://www.google.com/maps?ll=51.495359,-0.099585&z=15&t=m&hl=en&gl=GB&mapclient=embed&cid=3226506455862106501)
 
  ### Design
    1. Color Scheme.
-    - Although Dungeons and Dragons are well known for there black and reds, I wanted a color scheme that was tangental to its original. I used [*My Color.Space*](https://mycolor.space/?hex=%23EA0661&sub=1) to generate a color scheme that worked for me. Playing around with pinks/ blues and whites. With the addition of gold to really stand out and help for accessability users.
+    - Although Dungeons and Dragons are well known for there black and reds, I wanted a color scheme that was tangental to its original. I used [*My Color.Space*](https://mycolor.space/?hex=%23EA0661&sub=1) to generate a color scheme that worked for me. Playing around with pinks/ blues and whites. With the addition of gold to really stand out and help for accessability users. After that I used [RGB Color picker](https://rgbacolorpicker.com/hex-to-rgba ) to convert my colors of choice to Hex for me. 
 
    2. Fonts.
     - Again the Font of most DnD books or stories has its own well renowned font (even used for the title credit of Stranger Things), so I wanted to steer clear of copywrite probelms and make something less harsh, and preferably enjoyable to read. Thanks to [Google Fonts](https://fonts.google.com/), I managed to have both a bold font for important information, and a lighter weighted one of Josefin-Sans that has a more fantastical nature to it. 
@@ -55,7 +55,8 @@ I enacted multiple features to help streamline user experience on this site. Thr
     However I only made the index page with this, after I created it I ran straight into creating the site itself and never came back to play around with the ideas for other pages. I believe would be something I take under more consideration in future. 
     ![index page wireframe](documentation/wireframe/index-page-wireframe.png "Index page original idea wireframe")
 
-   4. Images. 
-    -  
+   4. Images and Logos
+    -   All images used in the project were downloaded from places with a free license and don't need purchasing. I used various websites such as [Font Awesome](https://fontawesome.com/icons/dragon?s=solid&f=classic) to help me build my Logo, in conjuction with [Favicon](https://favicon.io/favicon-generator/) which allowed me to build a logo.
+      * Note Creditation *Favicon* - there creation was also the code I used to embedd the logo into my site/ tab bar. 
 
 
