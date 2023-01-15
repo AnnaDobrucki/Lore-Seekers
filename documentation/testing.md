@@ -1,6 +1,8 @@
-## Testing
+# Testing
 
 Through-out testing I found an array of bugs, however using [Dev Tools](https://developer.chrome.com/docs/devtools/) I found ways of debugging them. 
+
+### Error Resolution and Debugging 
 
  1. I had a consistent problem of my hero image and footer borders changing shape when I was making the site responsive to other screen sizes. After some time I realised using %'s for both height and width, meant that if the screen got smaller so too would the curvature of the border. I then fixed the value to *em* and the border remains curved and responsive.
 
@@ -22,3 +24,35 @@ Through-out testing I found an array of bugs, however using [Dev Tools](https://
    * Samsung Galaxy A51
    * Nest Hub
    * Nest Hub Max
+
+# HTML & CSS Validation
+
+## HTML5
+
+I used the [W3C Validation Service](https://validator.w3.org/#validate_by_input) to validate all HTML5 code used.
+
+See Below:
+
+  * Index.html
+
+  * Workshops.html
+
+  * Joinin.html
+
+  * Thankyou.html
+
+
+  ## CSS3
+
+  I used the [W3C Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input) to validate all CSS3 code used.
+
+  See Below: 
+
+  * CSS3 
+
+
+
+
+
+
+

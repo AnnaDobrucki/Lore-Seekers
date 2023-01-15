@@ -64,7 +64,7 @@ h1 {
 #hero-image {
     clear: both;
     height: 350px;
-    background: url('../images/dnd_icewind-pic.webp') no-repeat center center;
+    background: url('../../images/dnd_icewind-pic.webp') no-repeat center center;
     padding-top: 10px;
     border: 1px solid #fafafa;
     border-radius: 3em;
