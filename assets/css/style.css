@@ -232,7 +232,7 @@ form h3 {
 }
 
 ::placeholder {
-    color: rgba(200, 6, 99, 0.6)
+    color: rgba(200, 6, 99, 0.8)
 }
 
 .workshop-choice{
@@ -289,13 +289,16 @@ form h3 {
     font-family: 'Josefin Sans', sans-serif;
 }
 
+
 .image {
     height: 250px;
     width: 250px;
     border-radius: 50%;
     margin: 0 auto;
-    padding-top: 10px;
+    padding: 10px;
 }
+
+
 
 /*  Footer  */
 footer {

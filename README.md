@@ -2,6 +2,13 @@
 
 Welcome to the world of DnD workshops run by Lore Seekers - [you can find the live version here.]() 
 
+## Index
+
+* [Project Goals](#project-goals)
+* [Features](#features)
+* [Desgin](#design)
+* [Testing](#testings)
+
 This website allows users with easy access to any and all potential workshops they may be curious about. This is aimed at people of all ages who are wanting to be creative and put themselves out there for a role-playing game that at times can feel overwhelming. 
 
 ## Project Goals
