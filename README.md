@@ -8,6 +8,8 @@ Welcome to the world of DnD workshops run by Lore Seekers - [you can find the li
 * [Features](#features)
 * [Desgin](#design)
 * [Testing](#testings)
+* [Deployment](#deployment)
+* [Credits](#credits)
 
 This website allows users with easy access to any and all potential workshops they may be curious about. This is aimed at people of all ages who are wanting to be creative and put themselves out there for a role-playing game that at times can feel overwhelming. 
 
@@ -69,6 +71,52 @@ I enacted multiple features to help streamline user experience on this site. Thr
 # Testing
 
   ### Please find all notes relating to testing [here](../Lore-Seekers-Project/documentation/testing.md).
+
+
+# Deployment
+
+# Credits
+ 
+ Through-out building Lore Seekers I predominantly used my knowledge gained from [Code Institue's Diploma Course](https://codeinstitute.net/full-stack-software-development-diploma/). As well as other online sources:
+
+ * [W3schools](https://www.w3schools.com/) taught me:
+
+    * How to shadow my 'Submit' button [here](https://www.w3schools.com/cssref/css3_pr_box-shadow.php)
+    * How to make my placeholder label text different colors [here](https://www.w3schools.com/howto/howto_css_placeholder.asp)
+    *  How to make different types of Keyframes [here](https://www.w3schools.com/cssref/tryit.php?filename=trycss3_keyframes2)
+
+ * [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/border-end-start-radius) - Which helped me learn how to code for my hero image border, and footer border. I since changed the %'s to em, however the basics were learnt here.
+
+ * [Flexbox Froggy as showed by my mentor](https://flexboxfroggy.com/) - helped me move elements around with more ease than using the 'floating' attributes.
+
+ * [wcmshelp](https://wcmshelp.ucsc.edu/advanced/embedding-google/google-maps.html) - showed me the process of embedding google maps
+
+ * [Favicon](https://favicon.io/favicon-generator/) - As stated in my [Desgin](#design) section, Favicon helped build the look and relevant HTML/CSS for my website.
+
+## Media
+
+ * [MyColorSpace](https://mycolor.space/?hex=%23EA0661&sub=1) - Also stated above in [Desgin](#design), gave me an ability to play around with color palates I ended up using.
+
+ * [Font Awesome](https://fontawesome.com/icons/dragon?s=solid&f=classic) - Gave me multiple icons which were used in my nav bar/ logo/ info sections.
+
+ * [Google](https://www.google.com/)
+    * [Google Fonts](https://fonts.google.com/) - For free font useage.
+    * [Google Maps](https://www.google.com/maps) -  For embedding my iframe
+  
+ * [Youtube](https://www.youtube.com/) - Giving embbeded code and videos from *The Dungeoncast* , *the DM Lair* and *A crap guide to DND*
+
+    
+
+
+
+
+
+
+
+
+
+
+
 
 
 
