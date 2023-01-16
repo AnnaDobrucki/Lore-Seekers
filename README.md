@@ -73,8 +73,12 @@ I enacted multiple features to help streamline user experience on this site. Thr
    3. Wireframes.
     - I constructed the page idea in my head and placed it on paper at first, which I then transposed onto a wireframe. 
     To help me visualise my website before I got to coding I used [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAiAwomeBhBWEiwAM43YIKDLVpSTbTPGdANYmNtCBIQFrCBalOw9J1Hy3rXIXJycnkIxDYr8ahoCwtEQAvD_BwE).
-    However I only made the index page with this, after I created it I ran straight into creating the site itself and never came back to play around with the ideas for other pages. I believe would be something I take under more consideration in future. 
-    ![index page wireframe](documentation/wireframe/index-page-wireframe.png "Index page original idea wireframe")
+   Here are the wireframe protoypes for the website: 
+  ![index page wireframe](documentation/wireframe/index-page-wireframe.png "Index page original idea wireframe")
+
+  ![workshop-page wireframe](documentation/wireframe/workshop-page-wireframe.png "Workshop page original idea wireframe")
+
+  ![joinin page wireframe](documentation/wireframe/joinin-page-wireframe.png "Join In page original idea wireframe")
 
    4. Images and Logos
     -   All images used in the project were downloaded from places with a free license and don't need purchasing. I used various websites such as [Font Awesome](https://fontawesome.com/icons/dragon?s=solid&f=classic) to help me build my Logo, in conjuction with [Favicon](https://favicon.io/favicon-generator/) which allowed me to build a logo. Along with [Shutterstock](https://www.shutterstock.com/discover/stock-assets-uk-0220?c3apidt=p46848462172&gclid=CjwKCAiAwomeBhBWEiwAM43YIM5L464Bmpb0amVcJtesyh3q18-5F7s_RQoGkoEsgP13dKoUwrTQVRoC3KIQAvD_BwE&gclsrc=aw.ds&kw=free%20images%20download), [Unsplash](https://unsplash.com/), and [Pexels](https://www.pexels.com/) for my inspiration and images.

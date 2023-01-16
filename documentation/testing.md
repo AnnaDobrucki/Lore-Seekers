@@ -19,6 +19,11 @@ Through-out testing I found an array of bugs, however using [Dev Tools](https://
  3. In one of my earlier versions, my workshop badges were consistanly producing problems. Dev tools helped me realise that because of the size of the element itself I would have to use different CSS to place them where I wanted on the page. (Again) My mentor Gareth McGirr, pushed me to look at the 'Flex' attribute, giving me a helpful game called [Froggy](https://www.flexboxfroggy.com) to understand the method and implement it.
 
 
+## Manual testing
+
+
+
+
 ## Responsiveness testing 
  
  Dev tools was my go to for understanding my sites responisveness, and correcting media quieries. My site is responsive for the below:
