@@ -52,6 +52,7 @@ I enacted multiple features to help streamline user experience on this site. Thr
 
 + Thank You page 
   * This was in fact reccomeneded by my mentor Gareth McGirr. My original idea had the PUSH action to a code institute form-dump page. However under the suggestion of my mentor, I created a page that greets the user with a Thank you, and D20 image (well known as a good omen in DnD). This allows the user to still remain on my site instead of being push somehwere else. 
+![Thank you image](documentation/features-images/thankyou.html-image.png "Thank you image")
 
 + Footer
   * I also created a footer bar. Consisting of two blocks, one that allows the user to Contact Us for any further info. The other a Visit Us to all the relevant social media links for Lore Seekers. I also inserted a [Google Maps iframe straight to the workshops venue](https://www.google.com/maps?ll=51.495359,-0.099585&z=15&t=m&hl=en&gl=GB&mapclient=embed&cid=3226506455862106501) allowing the user easy knowledge of where and how to get to the venue. I spoke with my mentor who suggested having a larger map would be better for user experience, however I asked some friends and family about what they prefered. The overall consensus was, people dont use embedded maps on websites anymore, they simply click and follow the link to the relevant map. With this in mind I broadened the map a touch and kept the overall style as it is now. 
