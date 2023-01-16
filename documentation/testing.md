@@ -68,15 +68,17 @@ See Below:
 
   ![index.html validation](../documentation/validation-images/index.html-validation.png "index.html validation")
 
+  * [Workshops.html - press here to live link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fannadobrucki.github.io%2FLore-Seekers%2Fworkshops.html)
 
+  ![workshop.html validation](../documentation/validation-images/workshop.html-validation.png "workshop.html validation")
 
-  * [Workshops.html - press here to live link]()
-
-  * [Joinin.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fannadobrucki.github.io%2FLore-Seekers%2Fjoinin.html)
+  * [Joinin.html - press here to live link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fannadobrucki.github.io%2FLore-Seekers%2Fjoinin.html)
 
   ![joinin.html validation](../documentation/validation-images/joinin.html-validation.png "joinin.html validation")
 
-  * Thankyou.html
+  * [Thankyou.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fannadobrucki.github.io%2FLore-Seekers%2Fthankyou.html)
+
+  ![thankyou.html validation](../documentation/validation-images/thankyou.html-validation.png "thankyou.html validation")
 
 
   ## CSS3
