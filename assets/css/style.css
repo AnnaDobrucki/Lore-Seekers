@@ -289,7 +289,6 @@ form h3 {
     font-family: 'Josefin Sans', sans-serif;
 }
 
-
 .image {
     height: 250px;
     width: 250px;
@@ -297,8 +296,6 @@ form h3 {
     margin: 0 auto;
     padding: 10px;
 }
-
-
 
 /*  Footer  */
 footer {
@@ -354,7 +351,6 @@ footer {
 }
 
 @media screen and (max-width: 1070px) {
-
     #menu {
         clear: both;
 }
@@ -377,7 +373,6 @@ footer {
 }
 
 @media screen and (max-width: 1000px) {
-
     .workshop-container {
         display: flex;
         flex-direction: column;

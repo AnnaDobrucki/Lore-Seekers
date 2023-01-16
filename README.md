@@ -93,6 +93,8 @@ I enacted multiple features to help streamline user experience on this site. Thr
 
  * [Favicon](https://favicon.io/favicon-generator/) - As stated in my [Desgin](#design) section, Favicon helped build the look and relevant HTML/CSS for my website.
 
+ I would also like to thank the continuous support of my mentor Gareth McGirr, and the tutors at Code Institue.
+
 ## Media
 
  * [MyColorSpace](https://mycolor.space/?hex=%23EA0661&sub=1) - Also stated above in [Desgin](#design), gave me an ability to play around with color palates I ended up using.

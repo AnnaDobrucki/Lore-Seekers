@@ -1,5 +1,7 @@
 # Testing
 
+## Index
+
  * [Error resolution and Debugging](#error-resolution-and-debugging)
  * [Responsiveness Testing](#responsiveness-testing)
  * [Lighthouse testing](#lighthouse-testing)
