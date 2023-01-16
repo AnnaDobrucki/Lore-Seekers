@@ -343,6 +343,12 @@ footer {
     font-size: 30%;
     text-align: center;
     margin-top: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#paragraph-error-page {
+    font-size: 60%;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 /* Media Quieres for large and medium sized screens */
