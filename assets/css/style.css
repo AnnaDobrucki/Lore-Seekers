@@ -340,8 +340,9 @@ footer {
 
 #error-404 {
     clear:both;
-    font-size: 50%;
+    font-size: 30%;
     text-align: center;
+    color:#C80663;
 }
 
 /* Media Quieres for large and medium sized screens */
