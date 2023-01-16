@@ -40,12 +40,16 @@ Through-out testing I found an array of bugs, however using [Dev Tools](https://
 
   Below are the tests for all pages:
   + index.html
+  ![index.html lighthouse image](../documentation/lighthouse-images/index.html-lighthouse-report.png "index.html lighthouse image report")
 
-  + workshop.html
+  + workshop.html 
+  ![workshop.html lighthouse report](../documentation/lighthouse-images/workshop.html-lighthouse-report.png "workshop.html lighthouse report")
 
   + joinin.html
+  ![joinin.html-lighthouse-report](../documentation/lighthouse-images/joinin.html-lighthouse-report.png "joiin.html lighthouse report")
 
   + thankyou.html
+  ![thankyou.html-lighthouse-report](../documentation/lighthouse-images/thankyou.html-lighthouse-report.png "thankyou.html lighthouse report")
 
 # HTML & CSS Validation
 
