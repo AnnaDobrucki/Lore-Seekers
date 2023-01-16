@@ -79,6 +79,10 @@ See Below:
 
   ![thankyou.html validation](../documentation/validation-images/thankyou.html-validation.png "thankyou.html validation")
 
+  * 404.html Validation
+
+  ![404.html validation](../documentation/validation-images/error404-validation.png "404.html validation")
+
 
   ## CSS3
 
