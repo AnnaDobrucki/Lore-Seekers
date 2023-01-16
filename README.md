@@ -59,6 +59,8 @@ I enacted multiple features to help streamline user experience on this site. Thr
 
   ![Footer image](documentation/features-images/footer-image.png "Footer image")
 
++ Error 404 page
+  * I created an error 404 page to make sure users can always remain on my site, and be helpful to re-direct them back to the site.  
 
 
 
