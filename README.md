@@ -98,7 +98,7 @@ Here I followed the steps through Github to deploy my site. First I renamed my r
 
 ![Github-pages pre deployment](documentation/deployment-images/Github-pages-predeployment.png "Github-pages pre deployment")
 
-* Here is the live link below
+* [Here is the live link image and link](https://annadobrucki.github.io/Lore-Seekers/index.html) 
 
 ![Github-live-link](documentation/deployment-images/Github-live-link-image.png "Github-live-link")
 
