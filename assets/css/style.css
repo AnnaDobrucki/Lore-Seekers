@@ -340,14 +340,13 @@ footer {
 
 #error-404 {
     clear:both;
-    font-size: 30%;
     text-align: center;
     margin-top: 5em;
     font-family: 'Josefin Sans', sans-serif;
 }
 
 #paragraph-error-page {
-    font-size: 100%;
+    font-size: 50%;
 }
 
 /* Media Quieres for large and medium sized screens */
