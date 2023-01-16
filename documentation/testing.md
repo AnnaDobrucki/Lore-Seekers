@@ -86,7 +86,9 @@ See Below:
 
   See Below: 
 
-  * CSS3 
+  * [CSS3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fannadobrucki.github.io%2FLore-Seekers%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+  ![css validation - for link press here.](../documentation/validation-images/css3-validation.png "css validation")
 
 ## Browser Compatibility
 
