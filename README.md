@@ -2,6 +2,8 @@
 
 Welcome to the world of DnD workshops run by Lore Seekers - [you can find the live version here.]() 
 
+![multi-platform image](documentation/multi-platform-image/multi-platform-visual.png "Multi-platform image")
+
 ## Index
 
 * [Project Goals](#project-goals)
