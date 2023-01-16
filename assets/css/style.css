@@ -336,6 +336,14 @@ footer {
     width: 60%;
 }
 
+/* ERROR 404 Page */
+
+#error-404 {
+    clear:both;
+    font-size: 50%;
+    text-align: center;
+}
+
 /* Media Quieres for large and medium sized screens */
 
 @media screen and (max-width: 1200px) {
