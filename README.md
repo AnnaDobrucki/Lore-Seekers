@@ -8,7 +8,7 @@ Welcome to the world of DnD workshops run by Lore Seekers - [you can find the li
 
 * [Project Goals](#project-goals)
 * [Features](#features)
-* [Desgin](#design)
+* [Design](#design)
 * [Testing](#testings)
 * [Deployment](#deployment)
 * [Credits](#credits)
@@ -60,9 +60,9 @@ I enacted multiple features to help streamline user experience on this site. Thr
   ![Footer image](documentation/features-images/footer-image.png "Footer image")
 
 + Error 404 page
-  * I created an error 404 page to make sure users can always remain on my site, and be helpful to re-direct them back to the site.  
 
-
+  * I created an error 404 page to make sure users can always remain on my site, and be helpful to re-direct them back to the site. 
+   ![Error 404 page](documentation/features-images/error404-image.png "Error 404 page")
 
  ### Design
    1. Color Scheme.

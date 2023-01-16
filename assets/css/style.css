@@ -342,6 +342,14 @@ footer {
     clear:both;
     text-align: center;
     font-family: 'Josefin Sans', sans-serif;
+    padding-top: 2em;
+}
+
+#paragraph-error-page {
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    height: 75px;
+    padding-top: 20px;
 }
 
 /* Media Quieres for large and medium sized screens */
