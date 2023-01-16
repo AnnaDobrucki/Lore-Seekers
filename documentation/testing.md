@@ -64,11 +64,17 @@ I used the [W3C Validation Service](https://validator.w3.org/#validate_by_input)
 
 See Below:
 
-  * Index.html
+  * [Index.html - press here to live link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fannadobrucki.github.io%2FLore-Seekers%2Findex.html)
 
-  * Workshops.html
+  ![index.html validation](../documentation/validation-images/index.html-validation.png "index.html validation")
 
-  * Joinin.html
+
+
+  * [Workshops.html - press here to live link]()
+
+  * [Joinin.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fannadobrucki.github.io%2FLore-Seekers%2Fjoinin.html)
+
+  ![joinin.html validation](../documentation/validation-images/joinin.html-validation.png "joinin.html validation")
 
   * Thankyou.html
 

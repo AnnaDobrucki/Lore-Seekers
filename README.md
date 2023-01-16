@@ -93,9 +93,11 @@ I enacted multiple features to help streamline user experience on this site. Thr
 
 Here I followed the steps through Github to deploy my site. First I renamed my repository to just Lore Seekers -removing 'project' from the title.
 
-Then went to Github pages and selected my *main* branch and deployed my site. 
+ Went to Github pages and selected my *main* branch and deployed my site. 
 
 ![Github-pages pre deployment](documentation/deployment-images/Github-pages-predeployment.png "Github-pages pre deployment")
+
+* Here is the live link below
 
 ![Github-live-link](documentation/deployment-images/Github-live-link-image.png "Github-live-link")
 
