@@ -21,8 +21,7 @@ Through-out testing I found an array of bugs, however using [Dev Tools](https://
 
 ## Manual testing
 
-
-
+[Here you can find my google sheets page going through all manual tests.](https://docs.google.com/spreadsheets/d/1NNFvLb8tpPbJANL1fTV_1YFXppFt9QclBvmdPIkL6Og/edit?usp=sharing)
 
 ## Responsiveness testing 
  
@@ -76,7 +75,7 @@ See Below:
 
   ![joinin.html validation](../documentation/validation-images/joinin.html-validation.png "joinin.html validation")
 
-  * [Thankyou.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fannadobrucki.github.io%2FLore-Seekers%2Fthankyou.html)
+  * [Thankyou.html - press here to live link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fannadobrucki.github.io%2FLore-Seekers%2Fthankyou.html)
 
   ![thankyou.html validation](../documentation/validation-images/thankyou.html-validation.png "thankyou.html validation")
 
