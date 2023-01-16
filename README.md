@@ -82,7 +82,7 @@ I enacted multiple features to help streamline user experience on this site. Thr
 
 # Testing
 
-  ### Please find all notes relating to testing [here](../Lore-Seekers-Project/documentation/testing.md).
+  ### Please find all notes relating to testing [here](documentation/testing.md).
 
 
 # Deployment
