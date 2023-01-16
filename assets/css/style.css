@@ -347,9 +347,7 @@ footer {
 }
 
 #paragraph-error-page {
-    font-size: 60%;
-    font-family: 'Josefin Sans', sans-serif;
-    height: 75px;
+    font-size: 100%;
 }
 
 /* Media Quieres for large and medium sized screens */
