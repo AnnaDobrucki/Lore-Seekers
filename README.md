@@ -1,6 +1,6 @@
 # Lore Seekers
 
-Welcome to the world of DnD workshops run by Lore Seekers - [you can find the live version here.]() 
+Welcome to the world of DnD workshops run by Lore Seekers - [you can find the live version here.](https://annadobrucki.github.io/Lore-Seekers/) 
 
 ![multi-platform image](documentation/multi-platform-image/multi-platform-visual.png "Multi-platform image")
 
@@ -90,6 +90,15 @@ I enacted multiple features to help streamline user experience on this site. Thr
 
 
 # Deployment
+
+Here I followed the steps through Github to deploy my site. First I renamed my repository to just Lore Seekers -removing 'project' from the title.
+
+Then went to Github pages and selected my *main* branch and deployed my site. 
+
+![Github-pages pre deployment](documentation/deployment-images/Github-pages-predeployment.png "Github-pages pre deployment")
+
+![Github-live-link](documentation/deployment-images/Github-live-link-image.png "Github-live-link")
+
 
 # Credits
  
