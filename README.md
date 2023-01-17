@@ -9,7 +9,7 @@ Welcome to the world of DnD workshops run by Lore Seekers - [you can find the li
 * [Project Goals](#project-goals)
 * [Features](#features)
 * [Design](#design)
-* [Testing](#testings)
+* [Testing](#testing)
 * [Deployment](#deployment)
 * [Credits](#credits)
 
@@ -31,14 +31,14 @@ Knowing the world of Dungeons & Dragons as I do, it is easy to feel like there a
 I enacted multiple features to help streamline user experience on this site. Through-out the website there are call’s to action to guide the user to find out more about the workshops, and eventually sign up for one of them. 
 
 + Nav Bar 
-  * I did this by creating a Nav bar that allows the user to know where they are at all times through-out there use.
-  Embedding links to each workshops, in the Home section.
-  As well as links to the _Join Us_ page. 
+  * I did this by creating a Nav bar that allows the user to know where they are at all times through-out there use. Embedding links to each workshops, in the Home section. As well as links to the _Join Us_ page. 
+
+![Nav Bar image](documentation/features-images/nav-bar-image.png "Nav bar image")
 
 + Landing Page
   * The landing page has a bold hero image and a one use animation for cover text, this was used as an eyecatching feature so the first element users read is about *workshops* and *DnD*. In addition for better user expereience I created workshop badges that you begin to see at the bottom of the screen, so the user can infer that there is more content below.
 
-![hero image and badges](documentation/features-images/hero-image-plus-badges.png "Hero image plus abdges")
+![hero image and badges](documentation/features-images/hero-image-plus-badges.png "Hero image plus badges")
 
 + Workshops Page
   * After the landing page most links are heading towards the workshops page. Here there are a multitude of YouTube Videos, and "short and sweet" breakdowns of each workshop, and there affiliated time slots. I added the videos with the forethought, that newcomers would like to have some basic knowledge about DnD before entering a new space, with new people. Linking those pages are embedded links to the Join.In page. 
@@ -51,7 +51,7 @@ I enacted multiple features to help streamline user experience on this site. Thr
   ![Join in form](documentation/features-images/joinin-form.png "Join in form")
 
 + Thank You page 
-  * This was in fact reccomeneded by my mentor Gareth McGirr. My original idea had the PUSH action to a code institute form-dump page. However under the suggestion of my mentor, I created a page that greets the user with a Thank you, and D20 image (well known as a good omen in DnD). This allows the user to still remain on my site instead of being push somehwere else. 
+  * This was in fact reccomeneded by my mentor Gareth McGirr. My original idea had the PUSH action to a code institute form-dump page. However under the suggestion of my mentor, I created a page that greets the user with a Thank you, and D20 image (well known as a good omen in DnD). This allows the user to still remain on my site instead of being pushed somehwere else. 
 ![Thank you image](documentation/features-images/thankyou.html-image.png "Thank you image")
 
 + Footer
@@ -66,7 +66,7 @@ I enacted multiple features to help streamline user experience on this site. Thr
 
  ### Design
    1. Color Scheme.
-    - Although Dungeons and Dragons are well known for there black and reds, I wanted a color scheme that was tangental to its original. I used [*My Color.Space*](https://mycolor.space/?hex=%23EA0661&sub=1) to generate a color scheme that worked for me. Playing around with pinks/ blues and whites. With the addition of gold to really stand out and help for accessability users. After that I used [RGB Color picker](https://rgbacolorpicker.com/hex-to-rgba ) to convert my colors of choice to Hex for me. 
+    - Although Dungeons and Dragons are well known for there black and red hues', I wanted a color scheme that was tangental to its original. I used [*My Color.Space*](https://mycolor.space/?hex=%23EA0661&sub=1) to generate a color scheme that worked for me. Playing around with pinks/ blues and whites. With the addition of gold to really stand out and help for accessability users. After that I used [RGB Color picker](https://rgbacolorpicker.com/hex-to-rgba ) to convert my colors of choice to RGBA for me. 
 
 ![Color gradiant scheme](documentation/design-image/color-scheme.png "Color scheme choices")
 
@@ -133,9 +133,9 @@ Here I followed the steps through Github to deploy my site. First I renamed my r
 
  * [Google](https://www.google.com/)
     * [Google Fonts](https://fonts.google.com/) - For free font useage.
-    * [Google Maps](https://www.google.com/maps) -  For embedding my iframe
+    * [Google Maps](https://www.google.com/maps) -  For embedding my iframe.
   
- * [Youtube](https://www.youtube.com/) - Giving embbeded code and videos from *The Dungeoncast* , *the DM Lair* and *A crap guide to DND*
+ * [Youtube](https://www.youtube.com/) - Giving embbeded code and videos from *The Dungeoncast* , *the DM Lair* and *A crap guide to DND*.
 
     
 
